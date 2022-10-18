@@ -1,0 +1,19 @@
+public static final int EVENT_NULL = 0;
+public static final int EVENT_BARCHART = 1;
+public static final int EVENT_PIECHART = 2;
+public static final int EVENT_SEARCH = 3;
+public static final int EVENT_BACK = 4;
+public static final int EVENT_ALTITUDES = 5;
+public static final int EVENT_GUIDE = 6;
+public static final int EVENT_NORESULTS = 7;
+public static final int EVENT_NEXT = 8;
+public static final int EVENT_PREVIOUS = 9;
+
+public static int NAME_INDEX = 4;
+public static int LAUNCHDATE_INDEX = 6;
+public static int STATUS_INDEX = 11;
+public static int STATE_INDEX = 14;
+public static int MASS_INDEX = 18;
+public static int DIAMETER_INDEX = 26;
+public static int PERIGEE_INDEX = 32;
+public static int APOGEE_INDEX = 34;
